@@ -1,0 +1,9 @@
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\ListEquipment\obj\Debug\ListEquipment.csprojResolveAssemblyReference.cache
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\ListEquipment\bin\Debug\ListEquipment.dll
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\ListEquipment\bin\Debug\ListEquipment.pdb
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\ListEquipment\obj\Debug\ListEquipment.dll
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\ListEquipment\obj\Debug\ListEquipment.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\ListEquipment\bin\Debug\ListEquipment.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\ListEquipment\bin\Debug\ListEquipment.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\ListEquipment\obj\Debug\ListEquipment.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\ListEquipment\obj\Debug\ListEquipment.pdb

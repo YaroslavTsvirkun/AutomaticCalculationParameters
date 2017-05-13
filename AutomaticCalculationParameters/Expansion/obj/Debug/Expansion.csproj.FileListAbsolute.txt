@@ -1,0 +1,9 @@
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\Expansion\bin\Debug\Expansion.dll
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\Expansion\bin\Debug\Expansion.pdb
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\Expansion\obj\Debug\Expansion.csprojResolveAssemblyReference.cache
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\Expansion\obj\Debug\Expansion.dll
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\Expansion\obj\Debug\Expansion.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\Expansion\bin\Debug\Expansion.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\Expansion\bin\Debug\Expansion.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\Expansion\obj\Debug\Expansion.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\Expansion\obj\Debug\Expansion.pdb

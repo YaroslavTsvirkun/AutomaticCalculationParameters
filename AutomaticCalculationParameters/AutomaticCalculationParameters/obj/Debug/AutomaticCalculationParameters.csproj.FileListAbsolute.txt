@@ -1,0 +1,18 @@
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\AutomaticCalculationParameters.exe.config
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\AutomaticCalculationParameters.exe
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\AutomaticCalculationParameters.pdb
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Debug\AutomaticCalculationParameters.csprojResolveAssemblyReference.cache
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Debug\AutomaticCalculationParameters.exe
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Debug\AutomaticCalculationParameters.pdb
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\ListEquipment.dll
+F:\Users\Yaros\Desktop\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\ListEquipment.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\AutomaticCalculationParameters.exe.config
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\AutomaticCalculationParameters.exe
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\AutomaticCalculationParameters.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\ListEquipment.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\ListEquipment.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Debug\AutomaticCalculationParameters.csprojResolveAssemblyReference.cache
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Debug\AutomaticCalculationParameters.exe
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Debug\AutomaticCalculationParameters.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\Expansion.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Debug\Expansion.pdb

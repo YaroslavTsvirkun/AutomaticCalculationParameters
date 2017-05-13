@@ -1,0 +1,10 @@
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Release\AutomaticCalculationParameters.exe.config
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Release\AutomaticCalculationParameters.exe
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Release\AutomaticCalculationParameters.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Release\Expansion.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Release\ListEquipment.dll
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Release\Expansion.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\bin\Release\ListEquipment.pdb
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Release\AutomaticCalculationParameters.csprojResolveAssemblyReference.cache
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Release\AutomaticCalculationParameters.exe
+D:\CDImagest\ХНУМГ ім.О.М.Бекетова\Диплом\AutomaticCalculationParameters\AutomaticCalculationParameters\obj\Release\AutomaticCalculationParameters.pdb
